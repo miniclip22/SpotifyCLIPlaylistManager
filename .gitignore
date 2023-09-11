@@ -1,0 +1,8 @@
+# .gitignore
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build and output directories
+dist/
+out/

@@ -1,0 +1,17 @@
+{
+  "name": "spotify-playlist-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "ts-node src/spotify-playlist.ts"
+  },
+  "author": "Duarte Teles",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
